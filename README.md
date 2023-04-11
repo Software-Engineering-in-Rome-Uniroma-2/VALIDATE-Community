@@ -1,2 +1,2 @@
 # VALIDATE-Community
-VALIDATE Community GitHub Repository for Feature Request and Issue Request.
+VALIDATE Community GitHub Repository for Feature Request, Dataset Publication and Issue Request.
